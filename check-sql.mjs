@@ -8,10 +8,10 @@ import puppeteer from "puppeteer";
 // Konfigurasi server SQL
 const servers = [
   {
-    host: "your-db-host",
-    user: "your-db-user",
-    password: "your-db-password",
-    servername: "DB123",
+    host: "",
+    user: "",
+    password: "",
+    servername: "",
   },
 ];
 
